@@ -6,8 +6,8 @@
 
 **To do**
 **[Patrocínio 25/04** [baixa]
-- [ ] Criar as propagandas de Gustavo e Lucas 
-- [ ] Pegar identidade visual dos patrocinadores
+- [x] Criar as propagandas de Gustavo e Lucas 
+- [x] Pegar identidade visual dos patrocinadores
 
 **[tarefas do site]** [alta]
 - [x] edição dos locutores e descrição  no site
@@ -18,5 +18,5 @@
 
 
 **Projeções**:
-- [ ] Redirecionamento para o site do patrocinador
+- [x] Redirecionamento para o site do patrocinador
 - [ ] adicionar programetes (tempo de rádio gravado)
