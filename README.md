@@ -11,7 +11,7 @@
 
 **[tarefas do site]** [alta]
 - [x] edição dos locutores e descrição  no site
-- [ ] edição dos horários dos programas 
+- [x] edição dos horários dos programas 
 - [ ] editar links de direcionamento das redes sociais
 - [ ] adicionar mais vinhetas "comercial" na programação RENOVAR
 - [ ] Testar zararadio
