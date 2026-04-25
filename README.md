@@ -10,7 +10,7 @@
 - [ ] Pegar identidade visual dos patrocinadores
 
 **[tarefas do site]** [alta]
-- [ ] edição dos locutores e descrição  no site
+- [x] edição dos locutores e descrição  no site
 - [ ] edição dos horários dos programas 
 - [ ] editar links de direcionamento das redes sociais
 - [ ] adicionar mais vinhetas "comercial" na programação RENOVAR
