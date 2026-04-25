@@ -13,7 +13,7 @@
 - [x] edição dos locutores e descrição  no site
 - [x] edição dos horários dos programas 
 - [x] editar links de direcionamento das redes sociais
-- [ ] adicionar mais vinhetas "comercial" na programação RENOVAR
+- [x] adicionar mais vinhetas "comercial" na programação RENOVAR
 - [ ] Testar zararadio
 
 
